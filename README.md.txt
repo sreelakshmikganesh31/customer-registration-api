@@ -11,3 +11,6 @@ This project is a Django REST Framework (DRF) CRUD API for managing customer dat
 1. Clone the repo:
    ```bash
    git clone https://github.com/sreelakshmikganesh31/customer-registration-api.git
+
+
+fora side not i removed my virtual environment and __pycache__ which created for easy testing 
